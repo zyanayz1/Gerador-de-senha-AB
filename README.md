@@ -1,1 +1,2 @@
-# Gerador-de-senha-AB
+# GeradorDeSenhaCarla
+Criando um site que gera senhas
